@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**mimieos/mimieos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I enjoy learning, building, and experimenting with code and design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔧 Skills
+-  basic HTML, CSS, JavaScript  
+- Basic PHP & backend concepts  
+- Writing & communication  
+
+---
+
+ 🚀 Current Focus
+- Web design projects   
+- Exploring interactive front-end features  
+
+---
+
+## 📫 Contact
+- GitHub: [mimieos]  
+- Email: [zorganemaroua@gmail.com]  
